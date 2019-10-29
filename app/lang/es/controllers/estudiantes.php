@@ -1,0 +1,41 @@
+<?php
+	return array(
+
+		"estatus_estudiante" => "Estatus del Estudiante",
+		"id" => "ID",
+		"nombres" => "Nombres",
+		"apellidos" => "Apellidos",
+		"correo" => "Correo",
+		"telefono" => "Tel&eacute;fono",
+		"genero" => "G&eacute;nero",
+		"masculino" => "Masculino",
+		"femenino" => "Femenino",
+		"direccion" => "Direcci&oacute;n",
+		"fecha_nac" => "Fecha de Nacimiento",
+		"estatus" => "Estatus",
+		"activo" => "Activo",
+		"inactivo" => "Inactivo",
+		"espere_momento" => "Espere un momento..",
+		"des_programa" => "Descripci&oacute;n del Programa",		
+		"des_mov" => "Descripci&oacute;n del Movimiento",
+		"cond_mov" => "C&oacute;digo del Movimiento",
+
+		//movimiento
+		"movimiento" => "Movimiento",
+		"crear" => "Crear",
+		"programa" => "Programa",
+		"pensum" => "Pensum",
+		"no_existe_dat" => "No existe datos",
+		"obs" => "Observaciones",
+		"fecha" => "Fecha",
+		"movimientos" => "Movimientos",
+		"cargo" => "Cargo",
+		"fecha_in" => "Fecha Inicio",
+		"fecha_has" => "Fecha Hasta",
+		"seleccione" => "Seleccione...",
+		"modificar_sta" => "Modificar estatus",
+		"guardar" => "Guardar",
+		"agregar_mov" => "Agregar Movimiento",
+		"autoridades" => "Autoridades",
+	);
+?>
